@@ -27,5 +27,7 @@ print "\nMi viejo se llama {$papa} y mi vieja {$mama}\n";
 print '\nMi viejo se llama {$papa} y mi vieja {$mama}';
 // observa que los "caracteres escapeados" no funcionan con comilla simple
 
-print ("\n\nFIN desde php. Ejercicio: hacer este mismo programa
-en python y subirlo al git !\n\n");
+print ("\n\n
+  FIN desde php. 
+  Ejercicio: hacer este mismo programa en python y subirlo al git!
+  Buscar cómo se hacen constantes en python\n\n");
