@@ -1,13 +1,12 @@
-# cip39
 Materiales para curso de introducción a la programación
 
-Algo de lo que vimos el 20/12/2019, aunque creo que lo he estado modificando un poco
-Los script son puramente experimentales, no siguen ninguna finalidad práctica, fuera de comentar o descomentar lineas y probar los efectos que se producen al correrlos
+Hacemos un folder por unidad, más o menos ordenadamente
 
-Siempre se corren desde una consola, con PHP o PYTHON instalados, con
+Cip39, un nombre de fantasía para "curso de introducción a la programación para mayores de 39 años". Claro esta, es para cualquier persona que lo quiera aprovechar
 
-python _algo_,py
+Para interactuar entre los interesados tenemos un grupo de telegram https://t.me/cip39
 
-php _algo_.php
+Información en general https://klak.com.ar/39plus
 
-donde _algo_ es, claramente, el nombre del script (o sea, programa)
+Referencia: https://www.linkedin.com/posts/daniel-faure-8237166b_oferta-y-aneda-oferta-ofrezco-ense%C3%B1ar-activity-6608753600283885568-Xxi_
+
