@@ -164,12 +164,8 @@ class clase_lista_items {
   }
 
   public function promedio() {
-    $suma = 0;
-    foreach ($this->items as $key_item => $item_object) {
-      $suma += $item_object->valor();
-    }
     if (!$this->cantidad()) {return 'n/a';}
-    return $suma / $this->cantidad();
+    return $this->total() / $this->cantidad();
   }
 
   public function total() {
