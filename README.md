@@ -6,6 +6,12 @@ Para interactuar **entre** los _interesados_ tenemos un grupo de telegram https:
 
 Información en general https://klak.com.ar/39plus
 
+posibilidades
+
+* uno
+* dos
+* tres
+
 Referencia: https://www.linkedin.com/posts/daniel-faure-8237166b_oferta-y-aneda-oferta-ofrezco-ense%C3%B1ar-activity-6608753600283885568-Xxi_
 
 cyv.php, constantes y variables, algo muy general. Resta construir la versión en python
