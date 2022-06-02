@@ -2,7 +2,7 @@ Hacemos un folder por unidad, más o menos ordenadamente
 
 Cip39, un nombre de fantasía para "curso de introducción a la programación para mayores de 39 años". Claro esta, es para cualquier persona que lo quiera aprovechar
 
-Para interactuar entre los interesados tenemos un grupo de telegram https://t.me/cip39
+Para interactuar **entre** los _interesados_ tenemos un grupo de telegram https://t.me/cip39
 
 Información en general https://klak.com.ar/39plus
 
