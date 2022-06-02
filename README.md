@@ -6,6 +6,16 @@ Para interactuar **entre** los _interesados_ tenemos un grupo de telegram https:
 
 Información en general https://klak.com.ar/39plus
 
+> Suministrar ***energía*** _procedente_ exclusivamente de fuentes renovables, con precios competitivos y el mejor servicio, y los objetivos de: amarillo### USAUSA 1. satisfacer cada día las necesidades de más clientes a través de una estrategia que impulsa el ahorro, la transparencia y la ética.
+ 
+- tener empleados orgullosos de su trabajo 
+- hacer crecer a tu equipo 
+
+  1. ofrecer una oportunidad de negocio estable para nuestros distribuidores. 
+  2. **dale** este es nuevo, 
+
+- iraa USA a **USAUSA**???``There is a literal backtick (`) here.``
+
 posibilidades
 
 * uno
